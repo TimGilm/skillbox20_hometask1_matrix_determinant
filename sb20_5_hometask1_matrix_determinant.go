@@ -113,7 +113,7 @@ func determinantMatrix(m [rows1][cols1]int) int {
 
 func main() {
 	matrix := [rows1][cols1]int{
-		{1, 2, 3},
+		{9, 2, 3},
 		{4, 5, 6},
 		{7, 8, 9},
 	}
